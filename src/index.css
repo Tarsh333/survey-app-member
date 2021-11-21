@@ -20,8 +20,8 @@
 .sidebar div{
     margin: 10px 0px;
 }
-.page{
-    margin-top: 75px;
+.sidebar a{
+    color: black;
 }
 @media screen and (max-width:920px) {
     .sidebar-text{

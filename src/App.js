@@ -12,7 +12,7 @@ const App = () => {
 
     return (
         <>
-            <Header />
+            {/* <Header /> */}
             <Router>
                 <Sidebar className="col-md-2" />
                 <div className="page">
